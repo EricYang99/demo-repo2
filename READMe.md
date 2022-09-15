@@ -19,3 +19,7 @@ Inside of the local github app is soooooooo much easier
     we can then just push the changes on the git hub app 
         It will push the code based on the branch we are in, I think we are in the main
         The "push origin" button will appear in the middle of the screen after we have commited the code
+
+    
+    
+    At the bottom here, I am changing the code directly inside of git hub
